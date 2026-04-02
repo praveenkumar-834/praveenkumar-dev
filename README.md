@@ -1,22 +1,94 @@
-# Welcome to My GitHub Profile
+# 👋 Hi, I'm Praveen Kumar Ramamoorthy
 
-![Profile Banner](https://example.com/profile-banner.png)
 
-## About Me
-Hello! I'm Praveen Kumar, a passionate developer who loves creating innovative solutions and working on exciting projects. With experience in various technologies, I strive to enhance my skills and contribute to fantastic open-source contributions.
 
-## Projects
-- [Project One](https://github.com/praveenkumar-834/project-one): A brief description of what this project does.
-- [Project Two](https://github.com/praveenkumar-834/project-two): Another exciting project to showcase.
+🚀 **MERN Stack Developer | Linux Administrator | DevOps Engineer**
 
-## Tech Stack
-- **Languages**: JavaScript, Python, Java
-- **Frameworks**: React, Node.js, Django
-- **Databases**: PostgreSQL, MongoDB
-- **Tools & Platforms**: GitHub, Docker, AWS
+---
 
-## Let's Connect!
-Feel free to reach out on [Twitter](https://twitter.com/praveenkumar) or connect with me on [LinkedIn](https://linkedin.com/in/praveenkumar). I'm always open to discussions on projects, technology, or collaborative opportunities!
+## 🔥 About Me
 
-## Thank You for Visiting!
-I appreciate you taking the time to check out my profile. Let's build something amazing together!
+💻 7 years experience in **Linux System Administration & DevOps**
+🌐 Full Stack Developer specializing in **MERN Stack (MongoDB, Express, React, Node.js)**
+☁️ Hands-on experience with **AWS, Terraform, Docker, CI/CD**
+🔧 Strong in **automation, deployment, and production troubleshooting**
+🎯 Actively looking for **MERN / Full Stack / DevOps opportunities**
+
+---
+
+## 🌐 Portfolio
+
+🚀 Live Portfolio:
+👉 https://portfolio-liart-six-68.vercel.app/
+
+---
+
+## 🛠 Tech Stack
+
+### 💻 Frontend
+
+* React.js
+* JavaScript (ES6+)
+* HTML5, CSS3
+* Tailwind CSS
+
+### ⚙️ Backend
+
+* Node.js
+* Express.js
+* MongoDB (Mongoose)
+* REST APIs
+* JWT Authentication
+
+### ☁️ DevOps & Cloud
+
+* AWS (EC2, S3, IAM, RDS)
+* Terraform
+* Docker
+* Jenkins
+* Linux (Ubuntu, CentOS)
+* Nginx, Apache
+
+---
+
+## 📌 Featured Projects
+
+### 💰 Personal Finance Manager (MERN)
+
+✔ Income & Expense Tracking
+✔ Budget & Goal Management
+✔ JWT Authentication & Admin Dashboard
+✔ REST API Integration & Deployment
+
+---
+
+### 🔐 Password Reset System
+
+✔ Secure Token-Based Authentication
+✔ Email Integration using Nodemailer
+✔ Full Authentication Flow (Forgot/Reset Password)
+
+---
+
+## 📊 GitHub Stats
+
+![Praveen's GitHub stats](https://github-readme-stats.vercel.app/api?username=praveenkumar-834\&show_icons=true\&theme=tokyonight)
+
+---
+
+## 📫 Connect With Me
+
+* 🔗 LinkedIn: https://www.linkedin.com/in/praveenkumar-ramamoorthy-a56917206/
+* 💻 GitHub: https://github.com/praveenkumar-834
+* 🌐 Portfolio: https://portfolio-liart-six-68.vercel.app/
+
+---
+
+## ⚡ Fun Fact
+
+I combine **Development + DevOps**, so I can
+👉 build applications
+👉 deploy them
+👉 manage production
+
+🚀 End-to-end ownership mindset
