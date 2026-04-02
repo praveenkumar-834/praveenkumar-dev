@@ -1,50 +1,53 @@
-# Hi 👋 I'm Praveen Kumar
+# 👋 Hi, I'm Praveen Kumar Ramamoorthy
 
-🚀 MERN Stack Developer (Beginner)  
-💻 Former System Administrator & DevOps Engineer (7+ Years)
+🚀 MERN Stack Developer | Linux Administrator | DevOps Engineer
 
 ---
 
 ## 🔥 About Me
-- Transitioning into **MERN Stack Development**
-- Strong foundation in **JavaScript, React, Node.js, MongoDB**
-- Real-world experience in **Linux, AWS, DevOps & Production systems**
-- Passionate about building **scalable web applications**
+
+- 💻 8+ years experience in Linux System Administration & DevOps  
+- 🌐 MERN Stack Developer (MongoDB, Express, React, Node.js)  
+- ☁️ Hands-on AWS, Terraform, Docker  
+- 🔧 Experience in automation, deployment & monitoring  
+- 🎯 Looking for MERN / Full Stack / DevOps roles  
 
 ---
 
-## 🛠️ Tech Stack
-**Frontend**
-- HTML, CSS, Tailwind CSS
-- JavaScript (ES6+)
-- React.js
+## 🛠 Tech Stack
 
-**Backend**
-- Node.js
-- Express.js
+### 💻 Frontend
+- React.js, JavaScript, HTML, CSS, Tailwind CSS  
 
-**Database**
-- MongoDB
-- MySQL
+### ⚙️ Backend
+- Node.js, Express.js, MongoDB, REST APIs  
 
-**Tools**
-- Git, GitHub
-- Postman, VS Code
+### ☁️ DevOps & Cloud
+- AWS, Terraform, Docker, Jenkins  
+- Linux (Ubuntu, CentOS), Nginx, Apache  
 
 ---
 
-## 📂 Projects
-🔹 **Recipe Management App (MERN)**  
-CRUD app using Node.js, Express, MongoDB (MVC Architecture)
+## 📌 Projects
 
-🔹 **Notes App**
-React + Redux + Tailwind with Archive & Trash features
+### 💰 Personal Finance Manager (MERN)
+- Income & Expense tracking
+- Budget & Goal management
+- JWT Authentication & Admin panel  
 
-🔹 **Expense Tracker**
-React app with charts and filters
+### 🔐 Password Reset System
+- Email-based reset using Nodemailer  
+- Secure token authentication  
 
 ---
 
-## 📫 Contact Me
-- Email: kumar.praveen0834@gmail.com
-- LinkedIn: (add later)
+## 📫 Connect With Me
+
+- 🔗 LinkedIn: https://www.linkedin.com/in/praveenkumar-ramamoorthy-a56917206/  
+- 💻 GitHub: https://github.com/praveenkumar-834  
+
+---
+
+## ⚡ Fun Fact
+
+I combine **DevOps + Development**, so I can build AND deploy full applications 🚀
