@@ -1,5 +1,6 @@
 # 👋 Hi, I'm Praveen Kumar Ramamoorthy
-
+![GitHub followers](https://img.shields.io/github/followers/praveenkumar-834) 
+![GitHub stars](https://img.shields.io/github/stars/praveenkumar-834?affiliations=OWNER)
 
 
 🚀 **MERN Stack Developer | Linux Administrator | DevOps Engineer**
