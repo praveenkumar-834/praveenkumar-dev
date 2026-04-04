@@ -180,12 +180,12 @@ Projects focused on:
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=praveenkumar-834&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38bdf8&icon_color=8b5cf6&text_color=cbd5e1" />
-   <!-- <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=praveenkumar-834&theme=tokyonight&hide_border=true&background=0D1117&stroke=38bdf8&ring=8b5cf6&fire=22c55e&currStreakLabel=cbd5e1" /> -->
+   <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=praveenkumar-834&theme=tokyonight&hide_border=true&background=0D1117&stroke=38bdf8&ring=8b5cf6&fire=22c55e&currStreakLabel=cbd5e1" /> 
 </p>
 
-<!-- <p align="center">
+<p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=praveenkumar-834&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38bdf8&text_color=cbd5e1" />
-</p> -->
+</p
 
 ---
 
