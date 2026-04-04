@@ -72,9 +72,13 @@
 ---
 
 📊 GitHub Stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=praveenkumar-834&show_icons=true&theme=tokyonight" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=praveenkumar-834&theme=tokyonight" /> </p>
+<p align="center">  <img src="https://github-readme-streak-stats.herokuapp.com/?user=praveenkumar-834&theme=tokyonight" /> </p>
 
 ---
+
+🎯 Career Goal
+
+To work in a challenging environment where I can combine DevOps + Cloud + Development skills to build scalable, efficient systems.
 
 ## 📫 Connect With Me
 
@@ -83,6 +87,7 @@
 * 🌐 Portfolio: https://portfolio-liart-six-68.vercel.app/
 
 ---
+
 
 ## ⚡ Fun Fact
 
