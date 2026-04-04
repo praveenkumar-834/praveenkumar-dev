@@ -71,9 +71,8 @@
 
 ---
 
-## 📊 GitHub Stats
-
-![Praveen's GitHub stats](https://github-readme-stats.vercel.app/api?username=praveenkumar-834\&show_icons=true\&theme=tokyonight)
+📊 GitHub Stats
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=praveenkumar-834&show_icons=true&theme=tokyonight" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=praveenkumar-834&theme=tokyonight" /> </p>
 
 ---
 
