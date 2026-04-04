@@ -2,7 +2,7 @@
 ![GitHub followers](https://img.shields.io/github/followers/praveenkumar-834) 
 ![GitHub stars](https://img.shields.io/github/stars/praveenkumar-834?affiliations=OWNER)
 
-
+<p align="center"> <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=26&center=true&vCenter=true&width=600&lines=Linux+Administrator;DevOps+Engineer;MERN+Stack+Developer;Cloud+%26+Automation+Specialist" /> </p>
 🚀 **MERN Stack Developer | Linux Administrator | DevOps Engineer**
 
 ---
