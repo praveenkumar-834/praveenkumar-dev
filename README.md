@@ -16,7 +16,7 @@
   <a href="https://portfolio-liart-six-68.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-Live-22c55e?style=for-the-badge&labelColor=0f172a" />
   </a>
-  <a href="www.linkedin.com/in/praveen-ramamoorthy-5a829b3b9/">
+  <a href="https://www.linkedin.com/in/praveen-ramamoorthy-5a829b3b9/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-2563eb?style=for-the-badge&labelColor=0f172a" />
   </a>
 </p>
